@@ -81,7 +81,7 @@ Manikanta=()=>{
         md.innerHTML="Team Member";
         md.style.transition = 'all 0.5s ease';
         var n = document.getElementById("name");
-        n.innerHTML="Name : V Manikanta";
+        n.innerHTML="Name : Manikanta";
         md.style.transition = 'all 0.5s ease';
         let about = document.getElementById("matter");
         about.innerHTML = "As the Web Developer, I play a crucial role in shaping our digital presence, combining technical expertise with creativity to deliver exceptional web solutions. Specializing in both front-end and back-end development, I excel in creating seamless, user-friendly websites and applications tailored to our clients' needs. With a strong background in HTML, CSS, JavaScript, and various frameworks, I ensure our web solutions are robust, scalable, and visually appealing."
