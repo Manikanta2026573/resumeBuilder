@@ -68,7 +68,7 @@ SDP=()=>{
         about.innerHTML = "I drive our digital innovation by creating user-friendly and visually compelling websites and applications. My expertise spans HTML, CSS, JavaScript, and various frameworks, enabling me to build robust and scalable solutions. I prioritize seamless user experiences and stay current with industry advancements to ensure our projects are always cutting-edge."
     }, 10);
 }
-Praveen=()=>{
+Manikanta=()=>{
     let img = document.getElementById("leftimage");
     img.style.opacity = '0';
     img.style.transition = 'all 0.5s ease';
@@ -76,12 +76,12 @@ Praveen=()=>{
         let img = document.getElementById("leftimage");
         img.style.opacity = '1';
         img.style.transition = 'all 0.5s ease';
-        img.src = "../Assests/praveen.png";
+        img.src = "../Assests/thub.jpg";
         let md = document.getElementById("memberdesignation");
         md.innerHTML="Team Member";
         md.style.transition = 'all 0.5s ease';
         var n = document.getElementById("name");
-        n.innerHTML="Name : Praveen";
+        n.innerHTML="Name : V Manikanta";
         md.style.transition = 'all 0.5s ease';
         let about = document.getElementById("matter");
         about.innerHTML = "As the Web Developer, I play a crucial role in shaping our digital presence, combining technical expertise with creativity to deliver exceptional web solutions. Specializing in both front-end and back-end development, I excel in creating seamless, user-friendly websites and applications tailored to our clients' needs. With a strong background in HTML, CSS, JavaScript, and various frameworks, I ensure our web solutions are robust, scalable, and visually appealing."
