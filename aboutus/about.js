@@ -76,7 +76,7 @@ Manikanta=()=>{
         let img = document.getElementById("leftimage");
         img.style.opacity = '1';
         img.style.transition = 'all 0.5s ease';
-        img.src = "../Assests/thub.jpg";
+        img.src = "../Assests/22P31A05A6(1).jpg";
         let md = document.getElementById("memberdesignation");
         md.innerHTML="Team Member";
         md.style.transition = 'all 0.5s ease';
